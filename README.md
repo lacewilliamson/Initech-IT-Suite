@@ -3,7 +3,6 @@
 This suite is a parody creation of a 1980's themed "unfinished" IT interface from the fictional company _Initech_, featured in the film _Office Space_. 
 
 ## Features
----
 
 - A traditional 80's style command line interface
     - Login Screen
@@ -25,7 +24,6 @@ Tongue in cheek "debug" statements are still printed to the console throughout t
 **Additional features welcome. Contact me and I'll add them to the wishlist below, or clone the repo and get started on your own today!**
 
 ## Background 
----
 During the course of Tech Elevator Cohort 14, comedic _Office Space_ references were daily occurrences. 
 
 One of the homework assignments near the end of the C# module had us writing a simple user interface to accept a path and string from a user, so that the file at the passed path could be parsed for instances of that string, ultimately returning to the user the line number and contents when a match was found. 
@@ -35,12 +33,9 @@ I went a little overboard and themed the "UI" out of boredom, creating the "Init
 This is also mildly inspired by the fun interactive consoles hidden in the early _Matrix_ console games, and the original _Call of Duty Black Ops_.
 
 ## Usage
----
 Download and run the executable file on any Windows machine with the appropriate .NET frameworks. If you want to build from source, feel free.
 
 ## To-do
----
-
 - WIP Develop the Employee Tracker
     -  Employee Class (Note: Lots of this info can actually be drawn from the film, check IMDB)
           - Name
@@ -63,4 +58,3 @@ Download and run the executable file on any Windows machine with the appropriate
 
 
 ## Roadmap / Wishlist
----
