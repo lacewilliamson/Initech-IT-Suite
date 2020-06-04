@@ -51,10 +51,12 @@ Download and run the executable file on any Windows machine with the appropriate
 - WIP Develop login screen
     - Accept a username and password (multiples, for fun)
 
-- WIP Develop faux CLI prompt
+- **DONE** - ~~Develop faux CLI prompt (Opening Scene)~~
     
-
 - **DONE** - ~~Create a basic README.md~~
 
 
 ## Roadmap / Wishlist
+
+- Could develop and play audio alongside Opening Scene.
+    - Look into including sound playing library.
