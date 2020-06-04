@@ -12,6 +12,7 @@ namespace InitichSuite
         {
             TypeWriter.MachineTypeInstant("LOGIN: ");
             Console.ReadLine();
+            TypeWriter.HumanType($"\n\nThanks for visiting, the rest has yet to be implemented!",40,180,true);
 
         }
     }

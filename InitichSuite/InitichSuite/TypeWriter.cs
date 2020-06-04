@@ -60,7 +60,7 @@ namespace InitichSuite
                             Pause.PauseSlightlyRandom(baseSpeed, maxSpeed);
                         }
                         Console.Write(" "); //Puts the space back in
-                        Pause.PauseStable(920);
+                        Pause.PauseStable(450);
                     }
 
                 }
