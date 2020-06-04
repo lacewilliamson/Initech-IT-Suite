@@ -1,0 +1,13 @@
+Z:\MediaDocuments\Development\Initech-IT-Suite\InitichSuite\InitichSuite\obj\Debug\netcoreapp3.1\InitichSuite.csprojAssemblyReference.cache
+Z:\MediaDocuments\Development\Initech-IT-Suite\InitichSuite\InitichSuite\obj\Debug\netcoreapp3.1\InitichSuite.csproj.CoreCompileInputs.cache
+Z:\MediaDocuments\Development\Initech-IT-Suite\InitichSuite\InitichSuite\obj\Debug\netcoreapp3.1\InitichSuite.AssemblyInfoInputs.cache
+Z:\MediaDocuments\Development\Initech-IT-Suite\InitichSuite\InitichSuite\obj\Debug\netcoreapp3.1\InitichSuite.AssemblyInfo.cs
+Z:\MediaDocuments\Development\Initech-IT-Suite\InitichSuite\InitichSuite\bin\Debug\netcoreapp3.1\InitichSuite.exe
+Z:\MediaDocuments\Development\Initech-IT-Suite\InitichSuite\InitichSuite\bin\Debug\netcoreapp3.1\InitichSuite.deps.json
+Z:\MediaDocuments\Development\Initech-IT-Suite\InitichSuite\InitichSuite\bin\Debug\netcoreapp3.1\InitichSuite.runtimeconfig.json
+Z:\MediaDocuments\Development\Initech-IT-Suite\InitichSuite\InitichSuite\bin\Debug\netcoreapp3.1\InitichSuite.runtimeconfig.dev.json
+Z:\MediaDocuments\Development\Initech-IT-Suite\InitichSuite\InitichSuite\bin\Debug\netcoreapp3.1\InitichSuite.dll
+Z:\MediaDocuments\Development\Initech-IT-Suite\InitichSuite\InitichSuite\bin\Debug\netcoreapp3.1\InitichSuite.pdb
+Z:\MediaDocuments\Development\Initech-IT-Suite\InitichSuite\InitichSuite\obj\Debug\netcoreapp3.1\InitichSuite.dll
+Z:\MediaDocuments\Development\Initech-IT-Suite\InitichSuite\InitichSuite\obj\Debug\netcoreapp3.1\InitichSuite.pdb
+Z:\MediaDocuments\Development\Initech-IT-Suite\InitichSuite\InitichSuite\obj\Debug\netcoreapp3.1\InitichSuite.genruntimeconfig.cache
